@@ -7,3 +7,6 @@
 ^appveyor\.yml$
 R/quick_lung_mask.R
 ^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
